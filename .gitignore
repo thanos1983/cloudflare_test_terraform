@@ -33,6 +33,10 @@ override.tf.json
 .terraformrc
 terraform.rc
 
-# ignrone state files
+# Ignrone state files
 terraform.tfstate
 terraform.tfstate.backup
+
+# Ignore .idea
+.idea
+.idea/*
