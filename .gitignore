@@ -32,3 +32,7 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+
+# ignrone state files
+terraform.tfstate
+terraform.tfstate.backup
